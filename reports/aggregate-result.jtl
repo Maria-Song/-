@@ -1,0 +1,36 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1776758723087,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-1,text,false,,893,0,1,1,null,0,0,0
+1776758724572,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-2,text,false,,893,0,1,1,null,0,0,0
+1776758726073,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-3,text,false,,893,0,1,1,null,0,0,0
+1776758727570,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-4,text,false,,893,0,1,1,null,0,0,0
+1776758729070,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-5,text,false,,893,0,1,1,null,0,0,0
+1776759103799,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-1,text,false,,893,0,1,1,null,0,0,0
+1776759105297,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-2,text,false,,893,0,1,1,null,0,0,0
+1776759106797,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-3,text,false,,893,0,1,1,null,0,0,0
+1776759108298,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-4,text,false,,893,0,1,1,null,0,0,0
+1776759109799,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-5,text,false,,893,0,1,1,null,0,0,0
+1776759245242,288,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: 不知道这样的主机。 (pay-gw.test.com),支付并发测试 1-1,text,false,,2536,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,288
+1776759246712,1,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: pay-gw.test.com,支付并发测试 1-2,text,false,,2162,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,1
+1776759248211,1,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: pay-gw.test.com,支付并发测试 1-3,text,false,,2162,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,1
+1776759249712,1,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: pay-gw.test.com,支付并发测试 1-4,text,false,,2162,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,1
+1776759251211,0,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: pay-gw.test.com,支付并发测试 1-5,text,false,,2162,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,0
+1776760455466,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '{',支付并发测试 1-1,text,false,,875,0,1,1,null,0,0,0
+1776760456964,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '{',支付并发测试 1-2,text,false,,875,0,1,1,null,0,0,0
+1776760458466,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '{',支付并发测试 1-3,text,false,,875,0,1,1,null,0,0,0
+1776760459965,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '{',支付并发测试 1-4,text,false,,875,0,1,1,null,0,0,0
+1776760461464,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '{',支付并发测试 1-5,text,false,,875,0,1,1,null,0,0,0
+1776760483172,30,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: 不知道这样的主机。 (pay-gw.test.com),支付并发测试 1-1,text,false,,2536,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,30
+1776760484670,0,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: pay-gw.test.com,支付并发测试 1-2,text,false,,2162,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,0
+1776760486170,1,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: pay-gw.test.com,支付并发测试 1-3,text,false,,2162,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,1
+1776760487671,1,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: pay-gw.test.com,支付并发测试 1-4,text,false,,2162,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,1
+1776760489170,0,用户登录,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: pay-gw.test.com,支付并发测试 1-5,text,false,,2162,0,1,1,https://pay-gw.test.com/api/auth/login,0,0,0
+1776760744818,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-1,text,false,,893,0,1,1,null,0,0,0
+1776760746316,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-2,text,false,,893,0,1,1,null,0,0,0
+1776760747816,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-3,text,false,,893,0,1,1,null,0,0,0
+1776760749316,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-4,text,false,,893,0,1,1,null,0,0,0
+1776760750815,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: control char (code=9),支付并发测试 1-5,text,false,,893,0,1,1,null,0,0,0
+1776762250753,13,用户登录,200,OK,支付并发测试 1-1,text,true,,124,389,1,1,http://localhost:8888/localhost:8888/api/auth/login,13,0,7
+1776762252211,2,用户登录,200,OK,支付并发测试 1-2,text,true,,124,389,1,1,http://localhost:8888/localhost:8888/api/auth/login,2,0,1
+1776762253712,2,用户登录,200,OK,支付并发测试 1-3,text,true,,124,389,1,1,http://localhost:8888/localhost:8888/api/auth/login,2,0,1
+1776762255211,3,用户登录,200,OK,支付并发测试 1-4,text,true,,124,389,1,1,http://localhost:8888/localhost:8888/api/auth/login,3,0,1
+1776762256710,3,用户登录,200,OK,支付并发测试 1-5,text,true,,124,389,1,1,http://localhost:8888/localhost:8888/api/auth/login,3,0,1
